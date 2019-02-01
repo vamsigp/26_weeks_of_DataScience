@@ -1,10 +1,7 @@
 # 26 Weeks of DataScience
 
 ## Week1
-  - Python Basics
+  - Python Basics, Data Types & Data Structures, Python Programming constructs
   
-  - Data Types & Data Structures
-  
-  - Python Prograamming constructs
-  
- 
+## Week2
+ - Methods, Classes, Numpy
